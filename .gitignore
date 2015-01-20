@@ -1,7 +1,6 @@
 .idea
 *.pyc
 static/
-i/
 templates/
 tmp.txt
 app.py
